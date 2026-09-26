@@ -1,30 +1,19 @@
-# Hi 👋 I'm Emile Su
+# Hi, I'm Emile Su
 
-Software engineer interested in **engineering tools, embedded systems, music computing, and aviation data**.
+Software engineer interested in **engineering tools, software engineering, music computing, and aviation data**.
 
-- 🦀 Rust / TypeScript
-- 🔧 Embedded systems & digital broadcasting
-- ✈️ ADS-B / SDR / aviation data
-- 🎹 Machine learning & music computing
+## Skills
+- Programming Languages: C, C++, Python
+- Embedded System: STM32, PlatformIO
+- Tools: Git, GitHub Actions, MobaXterm, STM32Cube series, npm, Codex, WSL
 
-<details>
-<summary><b>Skills & Tools</b></summary>
+## Interests
+- ADS-B / SDR / Aviation data
+- Machine Learning & Music Computing
 
-<br>
-
-**Languages**  
-`C` `C++` `Python` `Rust` `TypeScript`
-
-**Embedded**  
-`STM32` `PlatformIO`
-
-**Media & Protocols**  
-`MPEG-TS` `GStreamer` `ADS-B` `SDR`
-
-**Machine Learning**  
-`PyTorch` `Sequence Modeling` `Attention`
-
-**Tools**  
-`Git` `GitHub Actions` `CMake`
-
-</details>
+## Learning
+- Rust / TypeScript
+- Embedded System / Bare-Metal / RTOS
+- Digital Broadcasting / GStreamer
+- Machine Learning / PyTorch / MCP
+- Docker / CI / CD
